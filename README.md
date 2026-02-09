@@ -5,7 +5,7 @@
 
 
 ## Academic Integrity Disclaimer:
-This notebooks were created as part of Project 1 in ECE 219 at UCLA and uploaded with permission of the TA/Professor. If you use any part of this work in your own project for this class, you may be subject to disciplin ary action based on UCLA's academic integrity policy.
+This notebooks were created as part of Project 1 in ECE 219 at UCLA and uploaded with permission of the TA/Professor. If you use any part of this work in your own project for this class, you may be subject to disciplinary action based on UCLA's academic integrity policy.
 
 
 ## Overview

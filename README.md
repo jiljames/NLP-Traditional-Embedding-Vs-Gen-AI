@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 **For Questions 1-14:**
 ```bash
-jupyter notebook "Project 1 Q1-Q14.ipynb"
+jupyter notebook "Project 1 Part 1 Q1-Q14.ipynb"
 ```
 Run all cells sequentially.
 

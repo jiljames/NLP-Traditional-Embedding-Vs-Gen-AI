@@ -14,12 +14,12 @@ Part 1 of this project implements and compares various text embedding methods (T
 ## Files Structure
 ```
 .
-├── Project 1 Q1-Q14.ipynb          # Questions 1-14 (TF-IDF, GloVe, basic classification)
-├── Project 1 Part 2 Q15-Q17.ipynb  # Questions 15-17 (PAWS dataset, Transformers)
-├── Project1_Report_206556488        # Report as PDF
-├── environment.yml                  # Conda environment file
-├── requirements.txt                 # Pip requirements file
-└── README.md                        # This file
+├── Project 1 Part 1 Q1-Q14.ipynb          # Questions 1-14 (TF-IDF, GloVe, basic classification)
+├── Project 1 Part 2 Q15-Q17.ipynb         # Questions 15-17 (PAWS dataset, Transformers)
+├── Project1_Report_206556488              # Report as PDF
+├── environment.yml                        # Conda environment file
+├── requirements.txt                       # Pip requirements file
+└── README.md                              # This file
 ```
 
 ## Setup Instructions
@@ -75,7 +75,7 @@ All experiments use `random_seed=42` as specified in the project requirements.
 ## Expected Directory Structure After Setup
 ```
 .
-├── Project 1 Q1-Q14.ipynb
+├── Project 1 Part 1 Q1-Q14.ipynb
 ├── Project 1 Part 2 Q15-Q17.ipynb
 ├── Project1-ClassificationDataset.csv
 ├── glove/
